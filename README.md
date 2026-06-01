@@ -15,7 +15,7 @@ An interactive web application built with Dash and Plotly to analyze and evaluat
 * **Individual Trajectory Line Graph**: Multi-player comparison line graphs which map career fantasy metrics based on the age of the selected players. Specific stats in the hover data.
 * **Aggregated Team Fantasy Leaderboards**: Bar chart distributions tracking the average fantasy points output generated per position for all 32 NFL franchises and traded players (2TM, 3TM). 
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Data Processing**: Python, Pandas, NumPy
 * **Visualization Canvas**: Plotly Express
