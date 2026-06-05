@@ -39,7 +39,7 @@ pip install pandas numpy plotly dash statsmodels
 2. Ensure your cleaned player data (`nfl_clean` DataFrame source) is accessible within the application workspace.
 3. Run the dashboard framework:
 ```bash
-python app.py
+python Baca DV Project2.ipynb 
 ```
 4. Navigate to `http://127.0.0.1:505` in your web browser to open the dashboard.
 
